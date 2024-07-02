@@ -1,0 +1,140 @@
+Volatility 3 Framework 2.7.0
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime	File output
+
+4	0	System	0xa08515462040	117	-	N/A	False	2024-06-11 16:43:55.000000 	N/A	Disabled
+100	4	Registry	0xa08515499080	4	-	N/A	False	2024-06-11 16:43:41.000000 	N/A	Disabled
+332	4	smss.exe	0xa08515e11040	2	-	N/A	False	2024-06-11 16:43:55.000000 	N/A	Disabled
+448	424	csrss.exe	0xa085162d3080	11	-	0	False	2024-06-11 16:44:01.000000 	N/A	Disabled
+548	424	wininit.exe	0xa08516c52080	1	-	0	False	2024-06-11 16:44:02.000000 	N/A	Disabled
+556	540	csrss.exe	0xa08516c54140	12	-	1	False	2024-06-11 16:44:02.000000 	N/A	Disabled
+648	540	winlogon.exe	0xa08516c9d080	3	-	1	False	2024-06-11 16:44:03.000000 	N/A	Disabled
+668	548	services.exe	0xa08516c9e080	5	-	0	False	2024-06-11 16:44:03.000000 	N/A	Disabled
+712	548	lsass.exe	0xa08516c49080	8	-	0	False	2024-06-11 16:44:03.000000 	N/A	Disabled
+824	668	svchost.exe	0xa08516d2a240	11	-	0	False	2024-06-11 16:44:06.000000 	N/A	Disabled
+848	648	fontdrvhost.ex	0xa08516d3d140	5	-	1	False	2024-06-11 16:44:06.000000 	N/A	Disabled
+856	548	fontdrvhost.ex	0xa08516d3b140	5	-	0	False	2024-06-11 16:44:06.000000 	N/A	Disabled
+940	668	svchost.exe	0xa08516dcd2c0	8	-	0	False	2024-06-11 16:44:06.000000 	N/A	Disabled
+992	668	svchost.exe	0xa08516e20240	5	-	0	False	2024-06-11 16:44:07.000000 	N/A	Disabled
+388	648	dwm.exe	0xa08516e5f080	13	-	1	False	2024-06-11 16:44:07.000000 	N/A	Disabled
+844	668	svchost.exe	0xa08516ec3300	3	-	0	False	2024-06-11 16:44:08.000000 	N/A	Disabled
+372	668	svchost.exe	0xa08516ec6280	1	-	0	False	2024-06-11 16:44:08.000000 	N/A	Disabled
+1036	668	svchost.exe	0xa08516ecb300	1	-	0	False	2024-06-11 16:44:08.000000 	N/A	Disabled
+1124	668	svchost.exe	0xa08516f412c0	2	-	0	False	2024-06-11 16:44:08.000000 	N/A	Disabled
+1184	668	svchost.exe	0xa08516f6b240	8	-	0	False	2024-06-11 16:44:08.000000 	N/A	Disabled
+1216	668	svchost.exe	0xa08516f86240	2	-	0	False	2024-06-11 16:44:08.000000 	N/A	Disabled
+1260	668	svchost.exe	0xa08516faa300	7	-	0	False	2024-06-11 16:44:08.000000 	N/A	Disabled
+1332	668	svchost.exe	0xa08516fc2240	3	-	0	False	2024-06-11 16:44:09.000000 	N/A	Disabled
+1448	668	svchost.exe	0xa08517e722c0	1	-	0	False	2024-06-11 16:44:09.000000 	N/A	Disabled
+1488	668	svchost.exe	0xa08517f0d300	1	-	0	False	2024-06-11 16:44:09.000000 	N/A	Disabled
+1564	668	svchost.exe	0xa08517ea8280	2	-	0	False	2024-06-11 16:44:10.000000 	N/A	Disabled
+1576	668	svchost.exe	0xa08517ec8300	6	-	0	False	2024-06-11 16:44:10.000000 	N/A	Disabled
+1584	668	svchost.exe	0xa08517ec7080	2	-	0	False	2024-06-11 16:44:10.000000 	N/A	Disabled
+1592	668	svchost.exe	0xa08517ea62c0	4	-	0	False	2024-06-11 16:44:10.000000 	N/A	Disabled
+1712	4	MemCompression	0xa08517f2d040	42	-	N/A	False	2024-06-11 16:44:10.000000 	N/A	Disabled
+1772	668	svchost.exe	0xa08517f31240	2	-	0	False	2024-06-11 16:44:11.000000 	N/A	Disabled
+1796	668	svchost.exe	0xa0851a03a2c0	2	-	0	False	2024-06-11 16:44:11.000000 	N/A	Disabled
+1840	668	svchost.exe	0xa0851a03f280	2	-	0	False	2024-06-11 16:44:11.000000 	N/A	Disabled
+1848	668	svchost.exe	0xa0851a041300	5	-	0	False	2024-06-11 16:44:11.000000 	N/A	Disabled
+1868	668	svchost.exe	0xa0851a0772c0	4	-	0	False	2024-06-11 16:44:11.000000 	N/A	Disabled
+1996	668	svchost.exe	0xa0851a13c080	7	-	0	False	2024-06-11 16:44:12.000000 	N/A	Disabled
+2060	668	svchost.exe	0xa08515577080	8	-	0	False	2024-06-11 16:44:13.000000 	N/A	Disabled
+2072	668	svchost.exe	0xa08515571080	2	-	0	False	2024-06-11 16:44:13.000000 	N/A	Disabled
+2124	668	svchost.exe	0xa085154ef080	10	-	0	False	2024-06-11 16:44:13.000000 	N/A	Disabled
+2132	668	svchost.exe	0xa085154ed080	3	-	0	False	2024-06-11 16:44:13.000000 	N/A	Disabled
+2140	668	svchost.exe	0xa085154eb080	4	-	0	False	2024-06-11 16:44:13.000000 	N/A	Disabled
+2280	668	svchost.exe	0xa0851a23b300	5	-	0	False	2024-06-11 16:44:14.000000 	N/A	Disabled
+2388	668	svchost.exe	0xa0851a26d240	2	-	0	False	2024-06-11 16:44:14.000000 	N/A	Disabled
+2484	668	svchost.exe	0xa0851a2f9240	3	-	0	False	2024-06-11 16:44:15.000000 	N/A	Disabled
+2584	668	svchost.exe	0xa0851a3130c0	1	-	0	False	2024-06-11 16:44:15.000000 	N/A	Disabled
+2660	668	spoolsv.exe	0xa0851a398200	7	-	0	False	2024-06-11 16:44:15.000000 	N/A	Disabled
+2712	668	svchost.exe	0xa0851a3b9300	10	-	0	False	2024-06-11 16:44:15.000000 	N/A	Disabled
+2736	668	svchost.exe	0xa0851a3a4300	2	-	0	False	2024-06-11 16:44:15.000000 	N/A	Disabled
+2768	668	svchost.exe	0xa0851a46e300	6	-	0	False	2024-06-11 16:44:15.000000 	N/A	Disabled
+3028	668	svchost.exe	0xa0851a55d240	8	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3036	668	svchost.exe	0xa0851a55f300	5	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3044	668	svchost.exe	0xa0851a560080	15	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3056	668	svchost.exe	0xa0851a563240	22	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+2888	668	svchost.exe	0xa0851a5660c0	7	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3096	668	svchost.exe	0xa0851a574280	3	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3124	668	VGAuthService.	0xa0851a5b7300	2	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3136	668	vm3dservice.ex	0xa0851a5c3240	2	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3144	668	MpDefenderCore	0xa0851a5b6080	8	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3160	668	vmtoolsd.exe	0xa0851a5c2080	11	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3184	668	svchost.exe	0xa0851a5c5240	5	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3200	668	MsMpEng.exe	0xa0851a5c7340	18	-	0	False	2024-06-11 16:44:17.000000 	N/A	Disabled
+3264	668	svchost.exe	0xa0851a5c9240	5	-	0	False	2024-06-11 16:44:18.000000 	N/A	Disabled
+3316	668	svchost.exe	0xa0851a6b4300	2	-	0	False	2024-06-11 16:44:18.000000 	N/A	Disabled
+3408	3136	vm3dservice.ex	0xa0851a6b8200	2	-	1	False	2024-06-11 16:44:18.000000 	N/A	Disabled
+3828	668	dllhost.exe	0xa0851a804280	10	-	0	False	2024-06-11 16:44:21.000000 	N/A	Disabled
+3956	824	WmiPrvSE.exe	0xa0851a8fb080	12	-	0	False	2024-06-11 16:44:22.000000 	N/A	Disabled
+1048	1332	sihost.exe	0xa0851a9db2c0	6	-	1	False	2024-06-11 16:44:24.000000 	N/A	Disabled
+700	668	svchost.exe	0xa0851a9df340	5	-	1	False	2024-06-11 16:44:24.000000 	N/A	Disabled
+3152	668	svchost.exe	0xa0851a9da340	4	-	1	False	2024-06-11 16:44:24.000000 	N/A	Disabled
+2904	1184	taskhostw.exe	0xa0851aa25300	4	-	1	False	2024-06-11 16:44:24.000000 	N/A	Disabled
+2984	1184	taskhostw.exe	0xa0851aa27340	6	-	1	False	2024-06-11 16:44:24.000000 	N/A	Disabled
+3848	668	SearchIndexer.	0xa0851a9e1080	13	-	0	False	2024-06-11 16:44:24.000000 	N/A	Disabled
+3836	668	msdtc.exe	0xa0851a9e6080	9	-	0	False	2024-06-11 16:44:24.000000 	N/A	Disabled
+4168	668	svchost.exe	0xa0851aa74240	2	-	0	False	2024-06-11 16:44:25.000000 	N/A	Disabled
+4236	824	dllhost.exe	0xa0851aaf32c0	4	-	0	False	2024-06-11 16:44:25.000000 	N/A	Disabled
+4256	668	svchost.exe	0xa0851aaf4080	5	-	0	False	2024-06-11 16:44:25.000000 	N/A	Disabled
+4364	668	svchost.exe	0xa0851ab29280	3	-	0	False	2024-06-11 16:44:25.000000 	N/A	Disabled
+4576	4364	ctfmon.exe	0xa0851ac382c0	8	-	1	False	2024-06-11 16:44:26.000000 	N/A	Disabled
+4924	648	userinit.exe	0xa0851adf2080	0	-	1	False	2024-06-11 16:44:28.000000 	2024-06-11 16:45:09.000000 	Disabled
+4956	4924	explorer.exe	0xa0851adf1080	37	-	1	False	2024-06-11 16:44:29.000000 	N/A	Disabled
+4644	668	svchost.exe	0xa0851aeb52c0	7	-	0	False	2024-06-11 16:44:30.000000 	N/A	Disabled
+5360	3028	AggregatorHost	0xa0851ad8a240	2	-	0	False	2024-06-11 16:44:33.000000 	N/A	Disabled
+5440	668	svchost.exe	0xa0851aec4080	5	-	0	False	2024-06-11 16:44:34.000000 	N/A	Disabled
+5676	668	svchost.exe	0xa0851b0800c0	6	-	0	False	2024-06-11 16:44:35.000000 	N/A	Disabled
+5932	668	svchost.exe	0xa0851b084080	9	-	0	False	2024-06-11 16:44:37.000000 	N/A	Disabled
+6048	668	svchost.exe	0xa0851b08f080	5	-	0	False	2024-06-11 16:44:37.000000 	N/A	Disabled
+5800	668	svchost.exe	0xa0851b243280	7	-	0	False	2024-06-11 16:44:42.000000 	N/A	Disabled
+5848	668	svchost.exe	0xa0851b2f7080	6	-	1	False	2024-06-11 16:44:42.000000 	N/A	Disabled
+2896	668	svchost.exe	0xa0851b372300	8	-	0	False	2024-06-11 16:44:43.000000 	N/A	Disabled
+6288	824	StartMenuExper	0xa0851b4850c0	8	-	1	False	2024-06-11 16:44:47.000000 	N/A	Disabled
+6456	824	RuntimeBroker.	0xa0851b494340	1	-	1	False	2024-06-11 16:44:48.000000 	N/A	Disabled
+6504	668	svchost.exe	0xa0851b540240	7	-	0	False	2024-06-11 16:44:48.000000 	N/A	Disabled
+6576	824	MoUsoCoreWorke	0xa0851b543280	5	-	0	False	2024-06-11 16:44:48.000000 	N/A	Disabled
+6700	824	SearchApp.exe	0xa0851b6db080	33	-	1	False	2024-06-11 16:44:49.000000 	N/A	Disabled
+6820	824	RuntimeBroker.	0xa0851b781340	7	-	1	False	2024-06-11 16:44:50.000000 	N/A	Disabled
+6376	668	NisSrv.exe	0xa0851ba240c0	4	-	0	False	2024-06-11 16:44:52.000000 	N/A	Disabled
+7512	668	svchost.exe	0xa0851b4bd080	1	-	0	False	2024-06-11 16:45:00.000000 	N/A	Disabled
+7900	4956	FTK Imager.exe	0xa0851ba46080	15	-	1	False	2024-06-11 16:45:05.000000 	N/A	Disabled
+8184	668	svchost.exe	0xa0851ba32240	0	-	0	False	2024-06-11 16:45:08.000000 	2024-06-11 16:53:10.000000 	Disabled
+8108	4956	SecurityHealth	0xa0851b4b8080	1	-	1	False	2024-06-11 16:45:18.000000 	N/A	Disabled
+1032	668	SecurityHealth	0xa0851bd8a0c0	6	-	0	False	2024-06-11 16:45:18.000000 	N/A	Disabled
+1348	4956	vmtoolsd.exe	0xa0851bcdf080	8	-	1	False	2024-06-11 16:45:19.000000 	N/A	Disabled
+7968	4956	msedge.exe	0xa0851ba41080	0	-	1	False	2024-06-11 16:45:24.000000 	2024-06-11 17:45:36.000000 	Disabled
+2316	824	ShellExperienc	0xa0851bf58080	14	-	1	False	2024-06-11 16:45:49.000000 	N/A	Disabled
+896	824	RuntimeBroker.	0xa0851bd75080	4	-	1	False	2024-06-11 16:45:50.000000 	N/A	Disabled
+7988	668	SgrmBroker.exe	0xa0851be8f080	5	-	0	False	2024-06-11 16:46:21.000000 	N/A	Disabled
+7520	668	svchost.exe	0xa0851beec080	3	-	1	False	2024-06-11 16:46:24.000000 	N/A	Disabled
+5244	668	svchost.exe	0xa0851bea2080	4	-	0	False	2024-06-11 16:46:38.000000 	N/A	Disabled
+7876	668	svchost.exe	0xa0851b236080	8	-	0	False	2024-06-11 16:46:39.000000 	N/A	Disabled
+3860	668	svchost.exe	0xa0851b4a8340	6	-	0	False	2024-06-11 16:46:51.000000 	N/A	Disabled
+2556	668	svchost.exe	0xa0851cf92240	0	-	0	False	2024-06-11 16:47:39.000000 	2024-06-11 16:47:46.000000 	Disabled
+7536	824	HxTsr.exe	0xa0851b7b7080	0	-	1	False	2024-06-11 16:49:35.000000 	2024-06-11 16:58:21.000000 	Disabled
+6968	668	svchost.exe	0xa0851c269340	8	-	0	False	2024-06-11 16:50:00.000000 	N/A	Disabled
+2544	668	svchost.exe	0xa0851c4cd240	1	-	0	False	2024-06-11 16:55:22.000000 	N/A	Disabled
+5868	3732	OneDrive.exe	0xa0851b9b3080	28	-	1	False	2024-06-11 16:55:27.000000 	N/A	Disabled
+3424	824	RuntimeBroker.	0xa0851a98d340	1	-	1	False	2024-06-11 16:58:36.000000 	N/A	Disabled
+7152	824	HxTsr.exe	0xa0851a98f080	0	-	1	False	2024-06-11 16:58:37.000000 	2024-06-11 17:00:15.000000 	Disabled
+3460	824	HxTsr.exe	0xa0851baa1080	0	-	1	False	2024-06-11 17:04:42.000000 	2024-06-11 17:04:57.000000 	Disabled
+2108	668	svchost.exe	0xa0851ba26080	1	-	0	False	2024-06-11 17:19:04.000000 	N/A	Disabled
+5864	824	dllhost.exe	0xa0851a2fb080	2	-	1	False	2024-06-11 17:19:25.000000 	N/A	Disabled
+1376	668	svchost.exe	0xa0851c3c0080	4	-	0	False	2024-06-11 17:23:47.000000 	N/A	Disabled
+1896	824	HxTsr.exe	0xa0851b082080	0	-	1	False	2024-06-11 17:41:44.000000 	2024-06-11 17:41:54.000000 	Disabled
+1200	7968	msedge.exe	0xa0851dcf2080	44	-	1	False	2024-06-11 17:45:35.000000 	N/A	Disabled
+812	1200	msedge.exe	0xa0851b8d0080	7	-	1	False	2024-06-11 17:45:37.000000 	N/A	Disabled
+3216	1200	msedge.exe	0xa0851c58d080	17	-	1	False	2024-06-11 17:45:38.000000 	N/A	Disabled
+3376	1200	msedge.exe	0xa0851dda7080	15	-	1	False	2024-06-11 17:45:38.000000 	N/A	Disabled
+5156	1200	msedge.exe	0xa0851db61080	9	-	1	False	2024-06-11 17:45:38.000000 	N/A	Disabled
+4884	824	ApplicationFra	0xa0851b48e080	2	-	1	False	2024-06-11 18:03:57.000000 	N/A	Disabled
+4936	1048	CalculatorApp.	0xa0851b9a1080	13	-	1	False	2024-06-11 18:03:57.000000 	N/A	Disabled
+8152	824	RuntimeBroker.	0xa0851db8a080	1	-	1	False	2024-06-11 18:04:00.000000 	N/A	Disabled
+7024	824	HxTsr.exe	0xa0851bd90080	0	-	1	False	2024-06-11 18:27:07.000000 	2024-06-11 18:27:34.000000 	Disabled
+1904	668	svchost.exe	0xa0851b258080	4	-	0	False	2024-06-11 19:14:07.000000 	N/A	Disabled
+7932	668	svchost.exe	0xa0851db5e080	3	-	0	False	2024-06-11 19:14:07.000000 	N/A	Disabled
+5608	668	svchost.exe	0xa0851ba43080	4	-	0	False	2024-06-11 19:14:08.000000 	N/A	Disabled
+7852	2060	audiodg.exe	0xa0851be88340	4	-	0	False	2024-06-11 19:14:18.000000 	N/A	Disabled
+1632	668	svchost.exe	0xa0851da03080	5	-	0	False	2024-06-11 19:14:26.000000 	N/A	Disabled
