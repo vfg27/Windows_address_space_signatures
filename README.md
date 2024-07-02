@@ -10,6 +10,10 @@ To make it run you should:
 
 
 ### Volshell
+To make it run you should:
+
+1. Execute **automate_volshell.py** modifying the path where the memory dumps are store, the path to the volatility3 folder (in the executed command) and the path to the script you want to execute. The script we want to execute in this case is **EPROCESS_script.py**, so add in **automate_volshell.py** its path. Also, modify inside **EPROCESS_script.py** the path where you want to store the JSONs with the results.
+2. Execute  **EPROCESS_compare.py** modifying the path where the memory dumps are stored
 There are three scripts:
   *	**automate_volshell.py**: To make it run you should modify: the path where the memory dumps are store, the path to the volatility3 folder (in the executed command) and the path to the script you want to execute.
   *	**EPROCESS_script.py**: To make it run you should modify the path to store the JSONs. This script is executed from **automate_volshell.py**.
